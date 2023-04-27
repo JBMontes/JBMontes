@@ -8,8 +8,8 @@
 
 - 📫 How to reach me **jeremymontes@pursuit.org**
 
-- ⚡ Fun facts: 
--** - Haitian American 🇭🇹
+- ⚡ Fun facts:** 
+- - Haitian American 🇭🇹
 - - Musician 🎸 
 - - Worked as an EMT 🚑 
 - - Love science 🔬 
