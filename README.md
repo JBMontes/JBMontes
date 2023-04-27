@@ -8,13 +8,13 @@
 
 - 📫 How to reach me **jeremymontes@pursuit.org**
 
-- ⚡ Fun facts:** 
+- ⚡ Fun facts: 
 - - Haitian American 🇭🇹
 - - Musician 🎸 
 - - Worked as an EMT 🚑 
 - - Love science 🔬 
 - - 👟 Collector 
-- - Avid Gamer 🕹️**
+- - Avid Gamer 🕹️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
