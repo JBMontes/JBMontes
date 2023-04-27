@@ -20,6 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbmontes&show_icons=true&locale=en&layout=compact" alt="jbmontes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbmontes&show_icons=true&locale=en" alt="jbmontes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbmontes&" alt="jbmontes" /></p>
