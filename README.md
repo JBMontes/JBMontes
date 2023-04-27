@@ -10,7 +10,7 @@
 
 - ⚡ Fun facts: 
 - - Haitian American 🇭🇹
-- - I'm a musician 🎸 
+- - Musician 🎸 
 - - Worked as an EMT 🚑 
 - - Love science 🔬 
 - - 👟 Collector 
