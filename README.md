@@ -11,7 +11,6 @@
 - ⚡ Fun facts: 
  - Haitian American 🇭🇹
  - Musician 🎸 
- - Worked as an EMT 🚑 
  - Love science 🔬 
  - 👟 Collector 
  - Avid Gamer 🕹️
