@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/N2UZeTmvCR4AAAAd/ucheoma-uzosike-cartoon.gif">
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 On the road to mastering **JavaScript**
 
 - 📫 How to reach me **jeremymontes@pursuit.org**
 
