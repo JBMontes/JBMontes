@@ -1,6 +1,6 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif?20180717112308)
 <h1 align="center">Hi 👋🏿, I'm Jeremy Montes</h1>
-<h3 align="center">A software engineer in the making</h3>
+<h3 align="center">Full-stack software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/N2UZeTmvCR4AAAAd/ucheoma-uzosike-cartoon.gif">
 
 
